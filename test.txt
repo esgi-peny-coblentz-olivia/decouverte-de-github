@@ -1,1 +1,2 @@
-_test de contribution sur GtHb_
+test de contribution sur GitHub
+Github est une interface qui permet de versionner son travail et de faire tout ce qu'on pourrait faire avec git.
